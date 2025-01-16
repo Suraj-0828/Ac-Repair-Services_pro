@@ -538,6 +538,79 @@
       </div>
     </div>
 
+    <section class="testimonials-layout1 pt-130 pb-80">
+      <div class="container">
+        <div class="testimonials-wrapper">
+          <div class="row">
+            <div class="col-sm-12 col-md-12 col-lg-7 offset-lg-5">
+              <div class="heading-layout2">
+                <h3 class="heading__title">Customer Feedback!</h3>
+              </div><!-- /.heading -->
+            </div><!-- /.col-lg-7 -->
+            <div class="col-sm-12 col-md-12 col-lg-5">
+              <div class="slider-nav mb-60">
+                <div class="testimonial__meta">
+                  <div class="testimonial__thmb">
+                    <img src="assets/images/icons/female.png" alt="author thumb">
+                  </div><!-- /.testimonial-thumb -->
+                  <div>
+                    <h4 class="testimonial__meta-title">Anjali Sharma</h4>
+      
+                  </div>
+                </div><!-- /.testimonial-meta -->
+                <div class="testimonial__meta">
+                  <div class="testimonial__thmb">
+                    <img src="assets/images/icons/male.png" alt="author thumb">
+                  </div><!-- /.testimonial-thumb -->
+                  <div>
+                    <h4 class="testimonial__meta-title">Ravi Kumar </h4>
+
+                  </div>
+                </div><!-- /.testimonial-meta -->
+                <div class="testimonial__meta">
+                  <div class="testimonial__thmb">
+                    <img src="assets/images/icons/female.png" alt="author thumb">
+                  </div><!-- /.testimonial-thumb -->
+                  <div>
+                    <h4 class="testimonial__meta-title">Priya Mehta</h4>
+                
+                  </div>
+                </div><!-- /.testimonial-meta -->
+              </div><!-- /.slider-nav -->
+            </div><!-- /.col-lg-5 -->
+            <div class="col-sm-12 col-md-12 col-lg-7">
+              <div class="slider-with-navs">
+                <!-- Testimonial #1 -->
+                <div class="testimonial-item">
+                  <h3 class="testimonial__title">I got my home AC repaired, and I was very impressed with their service. The technician arrived on time and did the work neatly. My AC feels brand new now! Highly recommended!
+                  </h3>
+                </div><!-- /. testimonial-item -->
+                <!-- Testimonial #2 -->
+                <div class="testimonial-item">
+                  <h3 class="testimonial__title">Their installation service is top-notch. I had a new split AC installed, and the entire job was completed professionally and quickly. The staff is knowledgeable and friendly.
+                  </h3>
+                </div><!-- /. testimonial-item -->
+                <!-- Testimonial #3 -->
+                <div class="testimonial-item">
+                  <h3 class="testimonial__title">I needed maintenance for my office HVAC system, and they did the job very efficiently. They answered all my queries and provided quality service. Definitely a long-term partner.
+                  </h3>
+                </div><!-- /. testimonial-item -->
+              </div><!-- /.slick-carousel -->
+              <!-- <div class="testimonials__rating">
+                <div class="testimonials__rating-inner d-flex align-items-center">
+                  <span class="total__rate">4.9</span>
+                  <div>
+                    <span class="overall__rate">Zocdoc Overall Rating</span>
+                    <span>, based on 7541 reviews.</span>
+                  </div>
+                </div>
+              </div> -->
+              <!-- /.testimonials__rating -->
+            </div><!-- /.col-lg-7 -->
+          </div><!-- /.row -->
+        </div><!-- /.testimonials-wrapper -->
+      </div><!-- /.container -->
+    </section>
 
 
     <!-- Footer Pages -->

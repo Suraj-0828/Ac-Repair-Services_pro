@@ -54,7 +54,7 @@
     <nav class="navbar navbar-expand-lg sticky-navbar bg-black">
         <div class="container-fluid">
             <a class="navbar-brand" href="index.php">
-                <img class="logo-fix" src="assets/images/home/logo.png" class="logo-light" alt="logo">
+                <img class="logo-fix logo-border-radius" src="assets/images/about/new-logo.png" class="logo-light" alt="logo">
             </a>
             <button class="navbar-toggler" type="button">
                 <span class="menu-lines"><span></span></span>
