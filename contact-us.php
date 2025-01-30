@@ -24,21 +24,18 @@
         <?php include 'header.php'; ?>
         <!-- Header Pages -->
 
-        <section class="page-title page-title-layout5" style="background-image: url('assets/images/home/ac-beadcrumb.jpg');  background-repeat: no-repeat; background-size: cover;">
+        
+
+
+        <section class="page-title page-title-layout5" style="background-color: #28A3DF">
             <div class="container">
                 <div class="row">
                     <div class="col-12">
                         <h1 class="pagetitle__heading text-background">Contact Us</h1>
-                        <nav>
-                            <ol class="breadcrumb mb-0">
-                                <li class="breadcrumb-item"><a class="text-background" href="index.php">Home</a></li>&nbsp;
-                                <li class="breadcrumb-item active text-background" aria-current="page">Contact Us</li>
-                            </ol>
-                        </nav>
-                    </div><!-- /.col-12 -->
-                </div><!-- /.row -->
-            </div><!-- /.container -->
-        </section><!-- /.page-title -->
+                    </div>
+                </div>
+            </div>
+        </section>
 
 
         <section class="contact-layout1 pt-0 padding-top padding-bottom pt-70">
@@ -110,10 +107,13 @@
                                             <i class="fa fa-envelope text-white"></i><a class="text-white" href="mailto:info@onehvacsystems.com">info@onehvacsystems.com</a>
                                         </li>
                                         <li>
-                                            <i class="icon-phone text-white"></i><a class="text-white" href="tel:+16473678222">+16473678222</a>
+                                            <i class="icon-phone text-white"></i><a class="text-white" href="tel:+14168574459">+14168574459</a>
                                         </li>
                                         <li>
-                                            <i class="fab fa-whatsapp text-white"></i><a class="text-white" href="tel:+16473678222">+16473678222</a>
+                                            <i class="fab fa-whatsapp text-white"></i><a class="text-white" href="tel:+14168574459">+14168574459</a>
+                                        </li>
+                                        <li>
+                                            <i class="fas fa-fax text-white"></i><a class="text-white" href="tel:+16473678222">+16473678222</a>
                                         </li>
                                         <li>
                                             <i class="icon-location text-white"></i><a class="text-white" href="javascript:void(0)">One HVAC System,

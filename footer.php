@@ -1,37 +1,37 @@
 <footer class="footer mobile" style="background-image: url(assets/images/home/bg-2.jpg); background-size:contain;">
-      <div class="footer-primary">
+    <div class="footer-primary">
         <div class="container">
-          <div class="row">
+            <div class="row">
 
-            <div class="col-sm-12 col-md-6 col-lg-4">
-              <div class="footer-widget-contact">
-                <h6 class="footer-widget__title color-heading">Quick Contacts</h6>
-                <ul class="contact-list list-unstyled">
-                  <li>If you have any questions or need help, feel free to contact with our team.</li>
-                  <li>
-                    <a href="tel:+16473678222" class="phone__number">
-                      <i class="icon-phone"></i> <span>+16473678222</span>
-                    </a>
-                  </li>
-                  <li class="color-body">One HVAC System, Toronto, ON, Canada.</li>
-                </ul>
-                <div class="d-flex align-items-center">
-                  <a href="contact-us.php" class="btn btn__primary btn__link mr-30">
-                    <i class="icon-arrow-right"></i> <span>Book Now</span>
-                  </a>
-                  <ul class="social-icons list-unstyled mb-0">
-                    <li><a href="javascript:void(0)"><img class="border-radius-none" src="assets/images/home/whatsapp.png" /></a></li>
-                    <li><a href="javascript:void(0)"><img class="border-radius-none" src="assets/images/home/instagram.png" /></a></li>
-                    <li><a href="javascript:void(0)"><img class="border-radius-none" src="assets/images/home/facebook.png" /></a></li>
-                  </ul><!-- /.social-icons -->
-                </div>
-              </div><!-- /.footer-widget__content -->
-            </div><!-- /.col-lg-2 -->
-          </div><!-- /.row -->
+                <div class="col-sm-12 col-md-6 col-lg-4">
+                    <div class="footer-widget-contact">
+                        <h6 class="footer-widget__title color-heading">Quick Contacts</h6>
+                        <ul class="contact-list list-unstyled">
+                            <li>If you have any questions or need help, feel free to contact with our team.</li>
+                            <li>
+                                <a href="tel:+14168574459" class="phone__number">
+                                    <i class="icon-phone"></i> <span>+14168574459</span>
+                                </a>
+                            </li>
+                            <li class="color-body">One HVAC System, Toronto, ON, Canada.</li>
+                        </ul>
+                        <div class="d-flex align-items-center">
+                            <a href="contact-us.php" class="btn btn__primary btn__link mr-30">
+                                <i class="icon-arrow-right"></i> <span>Book Now</span>
+                            </a>
+                            <ul class="social-icons list-unstyled mb-0">
+                                <li><a href="javascript:void(0)"><img class="border-radius-none" src="assets/images/home/whatsapp.png" /></a></li>
+                                <li><a href="javascript:void(0)"><img class="border-radius-none" src="assets/images/home/instagram.png" /></a></li>
+                                <li><a href="javascript:void(0)"><img class="border-radius-none" src="assets/images/home/facebook.png" /></a></li>
+                            </ul><!-- /.social-icons -->
+                        </div>
+                    </div><!-- /.footer-widget__content -->
+                </div><!-- /.col-lg-2 -->
+            </div><!-- /.row -->
         </div><!-- /.container -->
-      </div><!-- /.footer-primary -->
-     
-    </footer>
+    </div><!-- /.footer-primary -->
+
+</footer>
 
 
 <footer class="footer" style="background-color: #2499CC;">
@@ -55,9 +55,9 @@
                         <nav>
                             <ul class="list-unstyled">
                                 <li><a href="index.php">Home</a></li>
-                                <li><a href="about-us.php">Company Profile</a></li>
-                                <li><a href="about-directors.php">About Directors</a></li>
-                                <li><a href="vision-and-mission.php">Vision and Mission</a></li>
+                                <li><a href="about-us.php">About Us</a></li>
+                                <li><a href="promotion.php">Promotion</a></li>
+                                <li><a href="contact-us.php">Contact Us</a></li>
                             </ul>
                         </nav>
                     </div>
@@ -94,7 +94,7 @@
                                     <i class="fa fa-phone"></i>
                                 </div>
                                 <div class="footer-text">
-                                    <a class="text-white footer-imp" href="tel:+16473678222">+16473678222</a>
+                                    <a class="text-white footer-imp" href="tel:+14168574459">+14168574459</a>
                                 </div>
                             </div>
                             <div class="footer-item">
@@ -102,7 +102,7 @@
                                     <i class="fab fa-whatsapp"></i>
                                 </div>
                                 <div class="footer-text">
-                                    <a class="text-white footer-imp" href="tel:+16473678222">+16473678222</a>
+                                    <a class="text-white footer-imp" href="tel:+14168574459">+14168574459</a>
                                 </div>
                             </div>
                             <div class="footer-item">
@@ -135,7 +135,7 @@
                     <script>
                         document.write(new Date().getFullYear())
                     </script>
-                    <span style="color: white; font-weight:bold;">One HVAC System</span>, All Rights and Reserved. Powered by <a href="https://www.itarsia.com/" target="_blank" style="color: white; font-weight:bold;">Itarsia India Limited</a>.
+                    <span style="color: white; font-weight:bold;">One HVAC System</span>, All Rights and Reserved.
                 </span>
             </div>
         </div>
@@ -143,15 +143,24 @@
 </footer>
 
 <!-- Contact Buttons -->
-<a href="https://wa.me/919820017739" target="_blank" class="floatwhatsapp">
+<a href="https://wa.me/+14168574459" target="_blank" class="floatwhatsapp">
     <img src="assets/images/home/whatsappsss.png" class="my-float1" alt="WhatsApp">
 </a>
 
-<a href="tel:919820017739" target="_blank" class="floatcall">
+<a href="tel:+14168574459" target="_blank" class="floatcall">
     <img src="assets/images/home/phone-call.png" class="my-float1" alt="Phone Call">
 </a>
 
-<a href="contact-us.php" class="fix-button-1">Book a Consultation</a>
+<a href="contact-us.php" class="fix-button-1 mobilemenu">Get a quote</a>
+
+<!-- <a href="contact-us.php" class="slide-button margin-right fix-button-1 mobilemenu">
+    <span class="slide-content button-wrapper">
+        <span class="text">Book a Consultation</span>
+        <span class="icon">
+            <i class="fas fa-arrow-right"></i>
+        </span>
+    </span>
+</a> -->
 
 <!-- Scripts -->
 <script src="assets/js/jquery-3.5.1.min.js"></script>
@@ -164,4 +173,5 @@
     AOS.init();
 </script>
 </body>
+
 </html>

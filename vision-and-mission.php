@@ -24,22 +24,16 @@
     <?php include 'header.php'; ?>
     <!-- Header Pages -->
 
-    <section class="page-title page-title-layout5" style="background-image: url('assets/images/home/ac-beadcrumb.jpg');background-repeat: no-repeat;
-    background-size: cover;">
-      <div class="container">
-        <div class="row">
-          <div class="col-12">
-            <h1 class="pagetitle__heading text-background">Vision & Mission</h1>
-            <nav>
-              <ol class="breadcrumb mb-0">
-                <li class="breadcrumb-item"><a class="text-background" href="index.php">Home</a></li>&nbsp;
-                <li class="breadcrumb-item active text-background" aria-current="page">Vision & Mission</li>
-              </ol>
-            </nav>
-          </div><!-- /.col-12 -->
-        </div><!-- /.row -->
-      </div><!-- /.container -->
-    </section><!-- /.page-title -->
+    
+    <section class="page-title page-title-layout5" style="background-color: #28A3DF">
+            <div class="container">
+                <div class="row">
+                    <div class="col-12">
+                        <h1 class="pagetitle__heading text-background">Vision & Mission</h1>
+                    </div>
+                </div>
+            </div>
+        </section>
 
 
     <section class="about-layout1" style="background-image: url('assets/images/about/map-world.png'); background-size: cover;" data-aos="zoom-in">
@@ -62,7 +56,7 @@
                       <i class="fas fa-check-circle"></i>
                     </div>
                     <div class="fs-18">
-                    Be the industry leader in comfort solutions for both homes and businesses.
+                      Be the industry leader in comfort solutions for both homes and businesses.
                     </div>
                   </li>
 
@@ -72,7 +66,7 @@
                     </div>
 
                     <div class="fs-18">
-                    Set global standards in quality, innovation, and customer experience.
+                      Set global standards in quality, innovation, and customer experience.
                     </div>
                   </li>
 
@@ -82,7 +76,7 @@
                     </div>
 
                     <div class="fs-18">
-                    Drive the adoption of eco-friendly technologies and practices.
+                      Drive the adoption of eco-friendly technologies and practices.
                     </div>
                   </li>
 
@@ -92,7 +86,7 @@
                     </div>
 
                     <div class="fs-18">
-                    Foster a culture of continuous improvement and sustainability.
+                      Foster a culture of continuous improvement and sustainability.
                     </div>
                   </li>
 
@@ -102,7 +96,7 @@
                     </div>
 
                     <div class="fs-18">
-                    Build long-lasting relationships with customers and partners.
+                      Build long-lasting relationships with customers and partners.
                     </div>
                   </li>
 
@@ -125,7 +119,7 @@
                       <i class="fas fa-check-circle"></i>
                     </div>
                     <div class="fs-18">
-                    Provide innovative heating, cooling, air purification, and water systems.
+                      Provide innovative heating, cooling, air purification, and water systems.
                     </div>
                   </li>
 
@@ -135,7 +129,7 @@
                     </div>
 
                     <div class="fs-18">
-                    Ensure energy efficiency and sustainability in every solution.
+                      Ensure energy efficiency and sustainability in every solution.
                     </div>
                   </li>
 
@@ -145,7 +139,7 @@
                     </div>
 
                     <div class="fs-18">
-                    Offer reliable and high-performance products for homes and businesses.
+                      Offer reliable and high-performance products for homes and businesses.
                     </div>
                   </li>
 
@@ -155,7 +149,7 @@
                     </div>
 
                     <div class="fs-18">
-                    Deliver superior customer service and satisfaction.
+                      Deliver superior customer service and satisfaction.
                     </div>
                   </li>
 
@@ -165,7 +159,7 @@
                     </div>
 
                     <div class="fs-18">
-                    Focus on long-term solutions that improve comfort and well-being.
+                      Focus on long-term solutions that improve comfort and well-being.
                     </div>
                   </li>
 
@@ -182,44 +176,44 @@
 
 
     <div class="codecode feat bg-gray pt-5 pb-5">
-        <div class="container">
-            <div class="row justify-content-center">
-                <div class="section-head col-sm-12">
-                    <h4><span>Why Choose</span> Us?</h4>
-                    <p>With decades of expertise and a commitment to innovation, we deliver efficient, eco-friendly, and cost-effective HVAC and water solutions. From installation to maintenance, our comprehensive services ensure your comfort and satisfaction.</p>
-                </div>
-                <div class="col-lg-4 col-sm-6">
-                    <div class="item"> <span class="icon feature_box_col_one"><i class="fa fa-globe"></i></span>
-                        <h6>Unmatched Expertise</h6>
-                        <p>Decades of experience in HVAC and water systems.</p>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-sm-6">
-                    <div class="item"> <span class="icon feature_box_col_two"><i class="fa fa-anchor"></i></span>
-                        <h6>Cutting-Edge Technology</h6>
-                        <p>Access to the latest advancements for maximum efficiency.</p>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-sm-6">
-                    <div class="item"> <span class="icon feature_box_col_three"><i class="fa fa-hourglass-half"></i></span>
-                        <h6>Comprehensive Support</h6>
-                        <p>From consultation to maintenance, we’ve got you covered.</p>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-sm-6">
-                    <div class="item"> <span class="icon feature_box_col_four"><i class="fa fa-database"></i></span>
-                        <h6>Eco-Friendly Solutions</h6>
-                        <p>Sustainable practices to protect the environment.</p>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-sm-6">
-                    <div class="item"> <span class="icon feature_box_col_five"><i class="fa fa-upload"></i></span>
-                        <h6>Affordable Excellence</h6>
-                        <p>Premium services at competitive <br>rates.</p>
-                    </div>
-                </div>
+      <div class="container">
+        <div class="row justify-content-center">
+          <div class="section-head col-sm-12">
+            <h4><span>Why Choose</span> Us?</h4>
+            <p>With decades of expertise and a commitment to innovation, we deliver efficient, eco-friendly, and cost-effective HVAC and water solutions. From installation to maintenance, our comprehensive services ensure your comfort and satisfaction.</p>
+          </div>
+          <div class="col-lg-4 col-sm-6">
+            <div class="item"> <span class="icon feature_box_col_one"><i class="fa fa-globe"></i></span>
+              <h6>Unmatched Expertise</h6>
+              <p>Decades of experience in HVAC and water systems.</p>
             </div>
+          </div>
+          <div class="col-lg-4 col-sm-6">
+            <div class="item"> <span class="icon feature_box_col_two"><i class="fa fa-anchor"></i></span>
+              <h6>Cutting-Edge Technology</h6>
+              <p>Access to the latest advancements for maximum efficiency.</p>
+            </div>
+          </div>
+          <div class="col-lg-4 col-sm-6">
+            <div class="item"> <span class="icon feature_box_col_three"><i class="fa fa-hourglass-half"></i></span>
+              <h6>Comprehensive Support</h6>
+              <p>From consultation to maintenance, we’ve got you covered.</p>
+            </div>
+          </div>
+          <div class="col-lg-4 col-sm-6">
+            <div class="item"> <span class="icon feature_box_col_four"><i class="fa fa-database"></i></span>
+              <h6>Eco-Friendly Solutions</h6>
+              <p>Sustainable practices to protect the environment.</p>
+            </div>
+          </div>
+          <div class="col-lg-4 col-sm-6">
+            <div class="item"> <span class="icon feature_box_col_five"><i class="fa fa-upload"></i></span>
+              <h6>Affordable Excellence</h6>
+              <p>Premium services at competitive <br>rates.</p>
+            </div>
+          </div>
         </div>
+      </div>
     </div>
 
     <!-- Footer Pages -->

@@ -24,21 +24,17 @@
         <?php include 'header.php'; ?>
         <!-- Header Pages -->
 
-        <section class="page-title page-title-layout5" style="background-image: url('assets/images/home/ac-beadcrumb.jpg');  background-repeat: no-repeat; background-size: cover;">
+        
+
+        <section class="page-title page-title-layout5" style="background-color: #28A3DF">
             <div class="container">
                 <div class="row">
                     <div class="col-12">
                         <h1 class="pagetitle__heading text-background">Heat Pump Repair Services</h1>
-                        <nav>
-                            <ol class="breadcrumb mb-0">
-                                <li class="breadcrumb-item"><a class="text-background" href="index.php">Home</a></li>&nbsp;
-                                <li class="breadcrumb-item active text-background" aria-current="page">Heat Pump Repair Services</li>
-                            </ol>
-                        </nav>
-                    </div><!-- /.col-12 -->
-                </div><!-- /.row -->
-            </div><!-- /.container -->
-        </section><!-- /.page-title -->
+                    </div>
+                </div>
+            </div>
+        </section>
 
 
         <section class="about-layout4 pb-50">
@@ -46,7 +42,7 @@
                 <div class="row">
                     <div class="col-sm-12 col-md-12 col-lg-12">
                         <div class="heading-layout2">
-                            <h3 class="heading__title mb-40">Heat Pump Repair Services: <span class="design-color">Restoring Comfort and Efficiency</span></h3>
+                            <h3 class="heading__title mb-40">Heat Pump Repair Services: <span class="design-color">Restoring Comfort and Efficiency</span>  </h3>
                         </div>
                     </div>
                 </div>

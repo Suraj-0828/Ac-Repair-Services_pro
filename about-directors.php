@@ -3,25 +3,25 @@
 
 
 <head>
-   <!-- Title and Discription start -->
-	<meta charset="UTF-8" />
-	<meta http-equiv="x-ua-compatible" content="ie=edge">
-	<meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- Title and Discription start -->
+    <meta charset="UTF-8" />
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
 
-	<title>Meet Our Directors | The Leadership Behind Our Success</title>
+    <title>Meet Our Directors | The Leadership Behind Our Success</title>
 
-	<meta name="description"
-		content="Get to know the experienced professionals driving our company forward with their expertise in HVAC and AC repair services.">
-	
-	<meta name="Keywords" content="Here you type your SEO content..... Key like.......">
+    <meta name="description"
+        content="Get to know the experienced professionals driving our company forward with their expertise in HVAC and AC repair services.">
 
-	<meta name="robots" content="index, follow">
-	<meta name="revisit-after" content="1 day">
-	<meta name="language" content="English">
-	<meta name="generator" content="N/A">
-	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-	<meta http-equiv="Pragma" content="no-cache" />
-	<!-- Title and Discription close -->
+    <meta name="Keywords" content="Here you type your SEO content..... Key like.......">
+
+    <meta name="robots" content="index, follow">
+    <meta name="revisit-after" content="1 day">
+    <meta name="language" content="English">
+    <meta name="generator" content="N/A">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta http-equiv="Pragma" content="no-cache" />
+    <!-- Title and Discription close -->
     <link href="assets/images/home/feb-icon.png" rel="icon">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Quicksand:wght@400;500;600;700&amp;family=Roboto:wght@400;700&amp;display=swap">
     <link rel="stylesheet" href="use.fontawesome.com/releases/v5.15.3/css/all.css">
@@ -37,22 +37,18 @@
         <?php include 'header.php'; ?>
         <!-- Header Pages -->
 
-        <section class="page-title page-title-layout5" style="background-image: url('assets/images/home/ac-beadcrumb.jpg');background-repeat: no-repeat;
-    background-size: cover;">
+       
+
+
+        <section class="page-title page-title-layout5" style="background-color: #28A3DF">
             <div class="container">
                 <div class="row">
                     <div class="col-12">
                         <h1 class="pagetitle__heading text-background">Directors</h1>
-                        <nav>
-                            <ol class="breadcrumb mb-0">
-                                <li class="breadcrumb-item"><a class="text-background" href="index.php">Home</a></li>&nbsp;
-                                <li class="breadcrumb-item active text-background" aria-current="page">Directors</li>
-                            </ol>
-                        </nav>
-                    </div><!-- /.col-12 -->
-                </div><!-- /.row -->
-            </div><!-- /.container -->
-        </section><!-- /.page-title -->
+                    </div>
+                </div>
+            </div>
+        </section>
 
 
 
